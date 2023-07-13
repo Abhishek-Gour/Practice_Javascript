@@ -1,3 +1,4 @@
+/* The code is declaring and initializing variables in JavaScript. */
 const accountId = 100345;//not changeble
 let accountEmail = 'gourabhishek026@gmail.com';
 var accountPassword = '123456';

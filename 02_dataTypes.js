@@ -1,3 +1,7 @@
+/* The code I provided is written in JavaScript and it demonstrates various concepts and operations
+in the language. */
+
+
 /* alert(3+3) we are using nodejs, not browser*/
 
 // console.log(3 + 3);//allowed
