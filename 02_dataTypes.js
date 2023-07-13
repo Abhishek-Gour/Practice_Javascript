@@ -29,3 +29,23 @@ let someNumber = 33;
 let stringNumber = String(someNumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+/*
+operator
+*/
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+let a = 10
+console.log(++a);//op 11
+console.log(a++);//op 11
+
+
+let str1 = 'Black';
+let str2 = 'Panther';
+
+console.log(str1 + " " + str2);
+
